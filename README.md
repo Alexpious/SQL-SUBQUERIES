@@ -1,6 +1,6 @@
 Sales Data Analysis Project Using Subqueries
 
-Project Overview
+Project Overview :
 This project involves analyzing a sales table using subqueries in SQL. The table includes the following columns:
 
 Date: The date of the sale
@@ -19,7 +19,9 @@ What Are Subqueries?
 Subqueries, also known as inner queries or nested queries, are queries embedded within another SQL query. They are used to perform operations that require multiple steps, allowing for more complex and flexible data retrieval. Subqueries can be found in the WHERE clause, FROM clause, or SELECT clause of an SQL statement.
 
 Project Content: 
+
 SQL File: Contains the SQL queries used to answer the project questions.
+
 Questions: The specific questions that were answered using the subqueries.
 
 Contact
