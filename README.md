@@ -4,10 +4,15 @@ Project Overview
 This project involves analyzing a sales table using subqueries in SQL. The table includes the following columns:
 
 Date: The date of the sale
+
 Product: The product sold
+
 Quantity Sold: The number of units sold
+
 Unit Price: The price per unit
+
 Total Sales: The total sales amount for the transaction
+
 The goal of this project is to answer specific questions about the sales data using subqueries. The SQL queries and their results are provided in the SQL file included in this repository.
 
 What Are Subqueries?
